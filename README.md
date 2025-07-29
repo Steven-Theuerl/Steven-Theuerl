@@ -1,7 +1,6 @@
-## Hello.
+## Hello 👻
 
-I'm making a living building things, and learning how to build things through software.
-
+I'm making a living building things, and learning new ways to build new things with software.
 I love what I do, it's a passion, hobby, job, and lifestyle. 
 
 ### Tech & Tools
