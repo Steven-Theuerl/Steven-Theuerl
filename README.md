@@ -1,7 +1,7 @@
 ## Hello 👻
 
-I'm making a living building things, and learning new ways to build new things with software. \n 
-I love what I do, it's a passion, hobby, job, and lifestyle. 
+I'm making a living building things, and learning new ways to build new things with software.  
+I love what I do, it's a passion, hobby, job, and lifestyle.  
 
 ### Tech & Tools
 
@@ -18,7 +18,8 @@ I love what I do, it's a passion, hobby, job, and lifestyle.
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=fff)
 
 ---
-💌 Always curious, always building. \n
+
+💌 Always curious, always building.  
 📬 [Portfolio](https://www.steventheuerl.xyz) | [Blog](https://www.tsundoku.blog) | [LinkedIn](https://www.linkedin.com/in/steven-theuerl-919175209)
 
 
