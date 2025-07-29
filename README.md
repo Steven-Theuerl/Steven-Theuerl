@@ -1,8 +1,10 @@
-## Hello. 
+## Hello.
 
-I'm Steven. I'm making a living building things, and learning how to build things through software.
+I'm making a living building things, and learning how to build things through software.
 
-### ⚡ Tech & Tools
+I love what I do, it's a passion, hobby, job, and lifestyle. 
+
+### Tech & Tools
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
@@ -15,23 +17,6 @@ I'm Steven. I'm making a living building things, and learning how to build thing
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=fff)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=fff)
-
-
-### 🛠 What I Do
-- Fullstack web development (Next.js, FastAPI, PostgreSQL)  
-- Data pipelines, web scraping, and system design  
-- AI integrations and custom tool development
-
-- ### 🔗 Featured Projects  
-
-- **[GreenhubPA](https://github.com/Steven-Theuerl/GreenhubPA-Public)**  
-  Data aggregation platform for 120k+ - and growing - cannabis products, built with a modular python scraper engine, Postgres, and a custom Next.js frontend on a custom, hardened, private VPS.
-
-- **[Tsundoku Blog Platform](https://github.com/Steven-Theuerl/Tsundoku-Public)**  
-  Fullstack blog platform built with a CMS that features live draft previews with dramatic media optimizations and perfect Lighthouse scores.
-
-- **[Hung](https://github.com/Steven-Theuerl/Game-Public)**  
-  Narrative game exploring moral reasoning, with a custom AI deliberator engine.
 
 ---
 💌 Always curious, always building. 
