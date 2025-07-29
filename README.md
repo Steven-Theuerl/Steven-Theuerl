@@ -17,6 +17,12 @@ I love what I do, it's a passion, hobby, job, and lifestyle.
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=fff)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=fff)
 
+### 🛠 Current Focus
+- Fullstack web development (Next.js, FastAPI, PostgreSQL)  
+- Data/ETL pipelines, web scraping, and system design  
+- AI integrations and custom tool development  
+
+
 ---
 
 💌 Always curious, always building.  
