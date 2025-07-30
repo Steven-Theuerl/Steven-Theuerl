@@ -3,30 +3,12 @@
 I'm making a living building things, and learning new ways to build new things with software.  
 I love what I do, it's a passion, hobby, job, and lifestyle.  
 
-### Tech & Tools
+My current focus is on fullstack platform development - using Next.js for the frontend,  
+Node/Python/Rust for the backend depending on requirements, PostgreSQL for database work,  
+and Ubuntu Linux on VPSs. I am interested in building datasets and agentic behaviors for AI.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=fff)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000)
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=fff)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=fff)
-
-### 🛠 Current Focus
-- Fullstack web development (Next.js, FastAPI, PostgreSQL)  
-- Data/ETL pipelines, web scraping, and system design  
-- AI integrations and custom tool development  
-
-
----
-
-💌 Always curious, always building.  
-📬 [Portfolio](https://www.steventheuerl.xyz) | [Blog](https://www.tsundoku.blog) | [LinkedIn](https://www.linkedin.com/in/steven-theuerl-919175209)
+You can read more about my work through the following links;  
+[Portfolio](https://www.steventheuerl.xyz) | [Blog](https://www.tsundoku.blog) | [LinkedIn](https://www.linkedin.com/in/steven-theuerl-919175209)
 
 
 
