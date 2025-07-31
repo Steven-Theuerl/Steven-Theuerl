@@ -5,7 +5,8 @@ I love what I do, it's a passion, hobby, job, and lifestyle.
 
 My current focus is on fullstack platform development - using Next.js for the frontend,  
 Node/Python/Rust for the backend depending on requirements, PostgreSQL for database work,  
-and Ubuntu Linux on VPSs. I am interested in building datasets and agentic behaviors for AI.
+and Ubuntu Linux on VPSs. I am interested in building datasets and agentic behaviors for AI,  
+and much much more. My list of things I want to do is very large, and it's always getting bigger.
 
 You can read more about my work through the following links;  
 [Portfolio](https://www.steventheuerl.xyz) | [Blog](https://www.tsundoku.blog) | [LinkedIn](https://www.linkedin.com/in/steven-theuerl-919175209)
