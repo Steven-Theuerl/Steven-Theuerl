@@ -1,4 +1,4 @@
-# Hello <img src="./Ghost-T.png" alt="ghost" width="32" height="32" style="vertical-align: middle;" />
+# Hello <img src="./Ghost-T.png" alt="ghost" width="64" height="64" style="vertical-align: middle;" />
 
 I'm making a living building things, and learning new ways to build new things with software.  
 I love what I do, it's a passion, hobby, job, and lifestyle.  
