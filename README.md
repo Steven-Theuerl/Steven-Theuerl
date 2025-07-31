@@ -8,7 +8,7 @@ Node/Python/Rust for the backend depending on requirements, PostgreSQL for datab
 and Ubuntu Linux on VPSs. I am interested in building datasets and agentic behaviors for AI,  
 and much much more. My list of things I want to do is very large, and it's always getting bigger.
 
-All of my work has been built as my IP, or for a client, so all of my actual repos are private - though  
+All of my work has been built as my IP or for a client, so all of my actual repos are private - though  
 the biggest projects that I have finished or am working on now have public facing READMEs that you can find below.  
 
 You can also read more about my work through the following links;  
