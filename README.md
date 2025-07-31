@@ -9,7 +9,8 @@ and Ubuntu Linux on VPSs. I am interested in building datasets and agentic behav
 and much much more. My list of things I want to do is very large, and it's always getting bigger.
 
 All of my work has been built as my IP or for a client, so all of my actual repos are private - though  
-the biggest projects that I have finished or am working on now have public facing READMEs that you can find below.  
+the biggest projects that I have finished or am working on now have public facing READMEs that you can  
+find below.  
 
 You can also read more about my work through the following links;  
 [Portfolio](https://www.steventheuerl.xyz) | [Blog](https://www.tsundoku.blog) | [LinkedIn](https://www.linkedin.com/in/steven-theuerl-919175209)
