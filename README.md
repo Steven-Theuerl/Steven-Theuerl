@@ -2,7 +2,8 @@
 
 I make cool stuff.
 
-All of my work and projects have been built as my IP or for a client, so it's all showing as private. Some of them have public facing READMEs that you can  
+All of my work and projects have been built as my IP or for a client, so it's all showing as private.  
+Some of them have public facing READMEs that you can  
 find below.
 
 You can also read more about my work through the following links;  
