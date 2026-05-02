@@ -3,8 +3,7 @@
 I make cool stuff.
 
 All of my work and projects have been built as my IP or for a client, so it's all showing as private.  
-Some of them have public facing READMEs that you can  
-find below.
+Some of them have public facing READMEs that you can find below.
 
 You can also read more about my work through the following links;  
 [Portfolio](https://www.steventheuerl.xyz) | [Blog](https://www.tsundoku.blog) | [LinkedIn](https://www.linkedin.com/in/steven-theuerl-919175209)
